@@ -6,7 +6,7 @@ AOD-Net-style dehazing module in front of the backbone, and the FFTA neck. It is
 custom modules for MMDetection 3.3.0.
 
 The trained weights and the complete training logs of every run in the paper are archived on
-Zenodo: DOI pending.
+Zenodo: https://doi.org/10.5281/zenodo.24282347
 
 ## Contents
 
